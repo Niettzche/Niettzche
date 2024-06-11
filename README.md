@@ -21,19 +21,14 @@
 - ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
 ### 📊 Mis estadísticas de GitHub:
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Niettzche&show_icons=true&theme=radical)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Niettzche&layout=compact&theme=radical)
 
 ### 📫 Cómo contactarme:
 - Email: [tu-email@example.com](mailto:tu-email@example.com)
 - LinkedIn: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil)
 
-### 😄 Pronombres:
-- Él/Él
-
-### ⚡ Dato curioso:
-- Me encanta explorar nuevas tecnologías y aprender constantemente para mejorar mis habilidades.
 
 ![Tecnologías](https://media.giphy.com/media/3o7abA4Q4M0xYq2bhK/giphy.gif)
 
