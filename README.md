@@ -2,8 +2,9 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado con experiencia en una variedad de tecnologías. Aquí tienes un poco sobre lo que hago y en lo que estoy trabajando actualmente:
 
+
 ### 🔭 Actualmente estoy trabajando en:
-- Lenguas Nativas
+- Lenguas Nativas (CEO)
 
 ### 🌱 Estoy aprendiendo:
 - Nuevas funcionalidades y mejoras en las tecnologías que utilizo
