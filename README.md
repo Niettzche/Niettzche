@@ -1,7 +1,5 @@
 ## Hello friend 👋
 
-![Bienvenido](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado con experiencia en una variedad de tecnologías. Aquí tienes un poco sobre lo que hago y en lo que estoy trabajando actualmente:
 
 ### 🔭 Actualmente estoy trabajando en:
@@ -25,15 +23,5 @@
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Niettzche&layout=compact&theme=radical)
 
-### 📫 Cómo contactarme:
-- Email: [tu-email@example.com](mailto:tu-email@example.com)
-- LinkedIn: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil)
-
-
-![Tecnologías](https://media.giphy.com/media/3o7abA4Q4M0xYq2bhK/giphy.gif)
-
 ---
 
-¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres colaborar en algún proyecto, no dudes en contactarme.
-
-![Gracias](https://media.giphy.com/media/26tknCqiJrBQG6bxC/giphy.gif)
