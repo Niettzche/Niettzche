@@ -1,4 +1,6 @@
-## Hola 👋
+## Hello friend 👋
+
+![Bienvenido](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado con experiencia en una variedad de tecnologías, incluyendo Python3, React, React Native, Bootstrap y más. Aquí tienes un poco sobre lo que hago y en lo que estoy trabajando actualmente:
 
@@ -35,6 +37,10 @@
 ### ⚡ Dato curioso:
 - Me encanta explorar nuevas tecnologías y aprender constantemente para mejorar mis habilidades.
 
+![Tecnologías](https://media.giphy.com/media/3o7abA4Q4M0xYq2bhK/giphy.gif)
+
 ---
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres colaborar en algún proyecto, no dudes en contactarme.
+
+![Gracias](https://media.giphy.com/media/26tknCqiJrBQG6bxC/giphy.gif)
