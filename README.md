@@ -17,6 +17,9 @@
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 - ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 - ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ### 📊 Mis estadísticas de GitHub:
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Niettzche&show_icons=true&theme=radical)
@@ -24,4 +27,8 @@
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Niettzche&layout=compact&theme=radical)
 
 ---
+
+![Tecnologías](https://media.giphy.com/media/3o7abA4Q4M0xYq2bhK/giphy.gif)
+
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres colaborar en algún proyecto, no dudes en contactarme.
 
