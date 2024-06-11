@@ -28,7 +28,5 @@
 
 ---
 
-![Tecnologías](https://media.giphy.com/media/3o7abA4Q4M0xYq2bhK/giphy.gif)
-
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres colaborar en algún proyecto, no dudes en contactarme.
 
