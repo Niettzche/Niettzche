@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hola 👋
 
-<!--
-**Niettzche/Niettzche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado con experiencia en una variedad de tecnologías, incluyendo Python3, React, React Native, Bootstrap y más. Aquí tienes un poco sobre lo que hago y en lo que estoy trabajando actualmente:
 
-Here are some ideas to get you started:
+### 🔭 Actualmente estoy trabajando en:
+- Construcción de servicios backend robustos usando Node.js y Flask
+- Desarrollo de aplicaciones web interactivas y responsivas con React y Bootstrap
+- Creación de aplicaciones móviles con React Native
+- Integración y trabajo con APIs de OpenAI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Estoy aprendiendo:
+- Nuevas funcionalidades y mejoras en las tecnologías que utilizo
+- Mejores prácticas en desarrollo de software y arquitectura de sistemas
+
+### 👯 Estoy buscando colaborar en:
+- Proyectos innovadores que utilicen tecnologías modernas
+- Aplicaciones que tengan un impacto positivo en la comunidad
+
+### 🤔 Busco ayuda con:
+- Ideas para nuevos proyectos que puedan beneficiar a otros desarrolladores
+- Contribuciones a mis proyectos actuales
+
+### 💬 Pregúntame sobre:
+- Desarrollo web y móvil
+- Integración de APIs y servicios backend
+- Mejores prácticas en programación y desarrollo de software
+
+### 📫 Cómo contactarme:
+- Email: [tu-email@example.com](mailto:tu-email@example.com)
+- LinkedIn: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil)
+
+### 😄 Pronombres:
+- Él/Él
+
+### ⚡ Dato curioso:
+- Me encanta explorar nuevas tecnologías y aprender constantemente para mejorar mis habilidades.
+
+---
+
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres colaborar en algún proyecto, no dudes en contactarme.
